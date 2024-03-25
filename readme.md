@@ -1,3 +1,9 @@
+## Proof of Work
+
+![](./images/1.png)
+
+![](./images/2.png)
+
 ## Contract Puzzles
 
 The goal of the Smart Contract puzzles is to work on reading smart contracts and writing good tests to modify those smart contracts.
